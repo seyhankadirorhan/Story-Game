@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/39d45a59-5d8b-4f79-962e-cd68a05d4165)
+
+
+
+
 # Story Game
 
 A simple and interactive story game built with HTML, CSS, and JavaScript.
